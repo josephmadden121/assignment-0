@@ -1,0 +1,26 @@
+git remote add origin https://github.com/josephmadden121/assignment-0.git
+git branch -M main
+git push -u origin main
+ Assignment: ASSIGNMENT 0
+# Name: Madden, Joseph
+# Date: 2022-12-10
+> #add 8 and 5 >8+5
+[1] 13
+> #subtract 6 from 22 > 22 - 6
+[1] 16
+> #multiply 6 by 7 >6*7
+[1] 42
+> #add 4 to 6 and divide the result by 2 > (6 + 4) / 2
+[1] 5
+> #compute 5 modulo 2 > 5 %% 2
+[1] 1
+> x <- 82 > print(x) [1] 82
+> y <- 41 > print(y) [1] 41
+> z <- x + y > print(z) [1] 123
+> class_name <- "DSC520" > print(class_name)
+[1] "DSC520"
+> is_good <- TRUE > print(is_good) [1] TRUE
+> class(is_good) [1] "logical"
+> class(z) [1] "numeric"
+> class(class_name) [1] "character"
+>
